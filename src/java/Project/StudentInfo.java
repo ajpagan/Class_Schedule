@@ -67,11 +67,11 @@ public class StudentInfo {
         //}    
     }
     
-    /****************************
-     *                          *
-     * @return the studentName  *
-     *                          *
-     ****************************/
+    /*****************************
+     *                           *
+     * @return the studentName   *
+     *                           *
+     *****************************/
     
     public String getStudentName() {
         return studentName;
